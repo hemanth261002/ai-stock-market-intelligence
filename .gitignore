@@ -1,0 +1,11 @@
+.env
+ENV/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/
+paper_trades*.json
+trade_log*.json
+complete.json
+test3'.py/
